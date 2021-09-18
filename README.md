@@ -1,5 +1,5 @@
-# Rechentool_Pollheizung
+# Rechentool_Poolheizung
 
-Rechentool zur Berechnung von Wasserwerten bei der privaten Schwimmbadnutzung.
+Rechentool zur Auslegung von Poolheizungen bei der privaten Schwimmbadnutzung.
 
-Weiterführende Informationen im Poolpowershop-Forum: https://www.poolpowershop-forum.de/forum/thread/1151019-excel-rechentool-zur-berechnung-von-wasserwerten-und-dosiermengen-wer-arbeitet-m
+Weiterführende Informationen im Poolpowershop-Forum: https://www.poolpowershop-forum.de/forum/thread/1152533-excel-auslegungstool-f%C3%BCr-poolheizungen/
